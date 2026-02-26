@@ -161,23 +161,6 @@ python pipeline.py
 
 ---
 
-# 🧠 Interview Explanation (PSI Architecture)
-
-## 🅿️ Problem
-Real-time weather data ingestion requires structured processing and proper failure handling to be usable in analytics or ML systems.
-
-## 🆂 Solution
-Designed a modular Python ETL pipeline that:
-- Fetches weather data via REST API
-- Validates and transforms JSON response
-- Logs execution stages
-- Stores structured output
-
-## 🅸 Impact
-Demonstrates production-style data engineering practices including logging, modular design, and failure resilience — ready for cloud deployment or workflow orchestration.
-
----
-
 # 🚀 Future Enhancements
 
 - ☁ Deploy to AWS Lambda  
