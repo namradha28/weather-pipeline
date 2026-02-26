@@ -1,0 +1,3 @@
+API_KEY = "b0a30c157e38455099d54210262602"
+CITY = "Mumbai"
+DB_NAME = "weather.db"
